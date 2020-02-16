@@ -20,6 +20,13 @@ return false;
 }  
 return true;  
 }`  
+
+`function abbrevName(name){
+let joinedName = name.split(' ').join('.');
+let indexOfPoint = joinedName.indexOf('.')
+let result = joinedName.slice(0, 1) + joinedName.slice(indexOfPoint, indexOfPoint + 2);
+return result.toUpperCase();
+}`  
 ### Experience  
 Codewars profile <https://www.codewars.com/users/yulbka13> with 137 completed tasks.
 ### Education  
