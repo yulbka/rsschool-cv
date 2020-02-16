@@ -1,7 +1,7 @@
 # Yuliya Ramanouskaya
 
 ### Contact information  
-**Tel**: +37529585332  
+**Tel**: +375295853332  
 **Email**: yulbka13@mail.ru  
 **Address**: Belarus, Minsk, Gorodetskaya st., 58-315  
 ### Summary  
