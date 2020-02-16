@@ -1,0 +1,10 @@
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  position: relative;
+}
+.image {
+  position: absolute;
+  top: 0;
+  right: 150px;  
+}
