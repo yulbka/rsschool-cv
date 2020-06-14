@@ -46,7 +46,7 @@ I want to change my professional sphere. I worked at bank as economist, but I re
     return stack.length === 0;
     }
 ### Experience  
-Codewars profile <https://www.codewars.com/users/yulbka13> with more than 300 completed tasks.
+Codewars profile <https://www.codewars.com/users/yulbka> with more than 300 completed tasks.
 
 My projects:
 - <https://yulbka.github.io/singolo/>
