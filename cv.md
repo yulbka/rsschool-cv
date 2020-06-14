@@ -53,6 +53,8 @@ My projects:
 - <https://yulbka.github.io/codejam-virtual-keyboard/>
 - <https://yulbka-rs2020q1-english-for-kids.netlify.app/>
 - <https://yulbka-rs2020q1-movie-search.netlify.app/>
+- <https://yulbka-rs2020q1-fancy-weather.netlify.app/>
+- <https://yulbka-rs2020q1-english-puzzle.netlify.app/>
 ### Education  
 - online studying javascript on website <https://learn.javascript.ru/>
 - courses "Learn the command line" and "Learn git" <https://www.codecademy.com/profiles/mega9892831161>
