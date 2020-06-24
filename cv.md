@@ -9,7 +9,9 @@ I want to change my professional sphere. I worked at bank as economist, but I re
 ### Skills  
 - html
 - css
+- sass
 - javascript
+- typescript
 - git  
 ### Code examples  
     function check(str, bracketsConfig) {
