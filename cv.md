@@ -18,6 +18,7 @@ I changed my professional sphere. I worked at bank as economist about 5 years, b
 ### Experience  
 LLC "Oxagile", Frontend developer, july 2020 - present  
 Oxagile is a company with over a decade of experience in building world-class B2B and B2C solutions focusing on video delivery, RTC, adtech, eLearning, and data analytics.  
+<br />
 **Responsibilities**:
 - developed reusable react components for commercial project
 - collaborated with backend team members to implement new features
@@ -25,6 +26,7 @@ Oxagile is a company with over a decade of experience in building world-class B2
 - developed react-based skills tree prototype for internal use
 - debugged applications and implemented code fixes when necessary
 - built internal tool in the form of google extension for youtrack tracking system, which shows online load of team members and automatically logs tasks to youtrack API, using AWS services for server side  
+<br />
 My training projects:
 - <https://yulbka.github.io/singolo/>
 - <https://yulbka.github.io/codejam-virtual-keyboard/>
@@ -33,8 +35,9 @@ My training projects:
 - <https://yulbka-rs2020q1-fancy-weather.netlify.app/>
 - <https://yulbka-rs2020q1-english-puzzle.netlify.app/>
 - <https://yulbka-songbird.netlify.app/>
-**Codewars** profile <https://www.codewars.com/users/yulbka>  
-**Github** account <https://github.com/yulbka?tab=repositories>
+<br />
+**Codewars** profile <https://www.codewars.com/users/yulbka>\
+**Github** account <https://github.com/yulbka?tab=repositories>  
 ### Education
 - Belarusian State Economic University (2011-2015) bachelor's degree
 - online studying javascript on website <https://learn.javascript.ru/>
